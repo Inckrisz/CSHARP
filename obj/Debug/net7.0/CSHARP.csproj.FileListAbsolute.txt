@@ -1,0 +1,14 @@
+C:\Users\Péter\OneDrive\Asztali gép\felkészülés C#\2NAP\CSHARP\bin\Debug\net7.0\CSHARP.exe
+C:\Users\Péter\OneDrive\Asztali gép\felkészülés C#\2NAP\CSHARP\bin\Debug\net7.0\CSHARP.deps.json
+C:\Users\Péter\OneDrive\Asztali gép\felkészülés C#\2NAP\CSHARP\bin\Debug\net7.0\CSHARP.runtimeconfig.json
+C:\Users\Péter\OneDrive\Asztali gép\felkészülés C#\2NAP\CSHARP\bin\Debug\net7.0\CSHARP.dll
+C:\Users\Péter\OneDrive\Asztali gép\felkészülés C#\2NAP\CSHARP\bin\Debug\net7.0\CSHARP.pdb
+C:\Users\Péter\OneDrive\Asztali gép\felkészülés C#\2NAP\CSHARP\obj\Debug\net7.0\CSHARP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Péter\OneDrive\Asztali gép\felkészülés C#\2NAP\CSHARP\obj\Debug\net7.0\CSHARP.AssemblyInfoInputs.cache
+C:\Users\Péter\OneDrive\Asztali gép\felkészülés C#\2NAP\CSHARP\obj\Debug\net7.0\CSHARP.AssemblyInfo.cs
+C:\Users\Péter\OneDrive\Asztali gép\felkészülés C#\2NAP\CSHARP\obj\Debug\net7.0\CSHARP.csproj.CoreCompileInputs.cache
+C:\Users\Péter\OneDrive\Asztali gép\felkészülés C#\2NAP\CSHARP\obj\Debug\net7.0\CSHARP.dll
+C:\Users\Péter\OneDrive\Asztali gép\felkészülés C#\2NAP\CSHARP\obj\Debug\net7.0\refint\CSHARP.dll
+C:\Users\Péter\OneDrive\Asztali gép\felkészülés C#\2NAP\CSHARP\obj\Debug\net7.0\CSHARP.pdb
+C:\Users\Péter\OneDrive\Asztali gép\felkészülés C#\2NAP\CSHARP\obj\Debug\net7.0\CSHARP.genruntimeconfig.cache
+C:\Users\Péter\OneDrive\Asztali gép\felkészülés C#\2NAP\CSHARP\obj\Debug\net7.0\ref\CSHARP.dll
